@@ -19,7 +19,3 @@ Example 2:
 "red", "red", "yellow ", "yellow", "yellow", "yellow", "blue", "red", "red", . . .
 
 “yellow” has the longest sequence of 4.
-
-## Assumptions
-
-The input will be an array.
