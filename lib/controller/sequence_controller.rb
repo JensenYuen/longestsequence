@@ -1,7 +1,5 @@
 # frozen_string_literal: false
 
-require 'pry-byebug'
-
 # logic of sequence controller
 class SequenceController
   def initialize
