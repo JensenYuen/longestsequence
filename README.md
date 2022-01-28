@@ -1,4 +1,4 @@
-## Challange
+## The Challange
 
 A class of 40 primary school children was asked to play a simple game.
 In this game, students were asked to choose and write on a piece of paper, their favourite colour from a fixed list.
