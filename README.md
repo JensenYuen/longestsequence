@@ -19,3 +19,23 @@ Example 2:
 "red", "red", "yellow ", "yellow", "yellow", "yellow", "blue", "red", "red", . . .
 
 “yellow” has the longest sequence of 4.
+
+
+### Built With
+
+* [Ruby](https://www.ruby-lang.org/en/)
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   gh repo clone JensenYuen/integer_sequencer
+   ```
+2. To run the application
+   ```sh
+   ruby lib/interface.rb
+   ```
